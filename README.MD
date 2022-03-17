@@ -1,4 +1,4 @@
-# Beam-go
+# Beam-go-Balaji Sarvepalli
 
 # First install the go  
 
